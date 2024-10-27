@@ -10,7 +10,7 @@ function Header() {
 
       <Subtitle>Criado por Luiz Paulo Souza</Subtitle>
       <div className={styles.iconContent}>
-        <Icon iconName="github" link="#" />
+        <Icon iconName="github" link="https://github.com/lpcsouza" />
       </div>
     </div>
   )
